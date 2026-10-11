@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tshirts",
+    "slug": "tshirts",
+    "name": "تيشيرتات",
+    "description": "تيشيرتات ستريت وير أصلية",
+    "image": "products/ah-lb03/01.webp",
+    "accent": "#c62828"
+  },
+  {
+    "id": "hoodies",
+    "slug": "hoodies",
+    "name": "هوديات",
+    "description": "هوديات دافئة وعملية",
+    "image": "products/ah-lb03/04.webp",
+    "accent": "#333333"
+  },
+  {
+    "id": "sets",
+    "slug": "sets",
+    "name": "أطقم",
+    "description": "أطقم كاملة عصرية",
+    "image": "products/ah-lb03/07.webp",
+    "accent": "#e53935"
+  }
+]
