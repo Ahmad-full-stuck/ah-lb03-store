@@ -43,7 +43,7 @@ export const trustItems = [
 ] as const
 
 export const homeStory = {
-  title: 'AH LB03 — ستريت وير عراقي',
+  title: 'ستريت وير يعبر عن هويتك',
   text: 'متجر AH LB03: ملابس ستريت وير أصلية — تيشيرتات، هوديات، وأطقم عصرية مع توصيل لجميع المحافظات.',
 }
 

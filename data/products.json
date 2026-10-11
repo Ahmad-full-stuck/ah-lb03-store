@@ -2,10 +2,10 @@
   {
     "id": "ah-lb03-01",
     "slug": "ah-lb03-01",
-    "name": "تيشيرت رياضي — AH LB03",
-    "type": "ملابس رياضية",
+    "name": "تيشيرت AH LB03 كلاسيك",
+    "type": "تيشيرت",
     "categoryId": "tshirts",
-    "description": "تيشيرت رياضي أصلي من AH LB03 — مريح وعملي للرياضة واليوميات.",
+    "description": "تيشيرت قطن عالي الجودة بتصميم AH LB03 الأصلي — مريح وعملي للاستخدام اليومي.",
     "price": 15000,
     "image": "products/ah-lb03/01.webp",
     "images": [
@@ -19,17 +19,17 @@
     "faqs": [],
     "isNew": true,
     "isFeatured": true,
-    "stockMeters": 100,
+    "stockMeters": 50,
     "createdAt": "2026-10-10T00:00:00.000Z",
     "sourceUrl": "https://www.instagram.com/ah_lb03/"
   },
   {
     "id": "ah-lb03-02",
     "slug": "ah-lb03-02",
-    "name": "طقم رياضي — AH LB03",
-    "type": "أطقم رياضية",
-    "categoryId": "tshirts",
-    "description": "طقم رياضي متكامل من AH LB03 — مثالي للتمارين والجري.",
+    "name": "هودي AH LB03 شتوي",
+    "type": "هودي",
+    "categoryId": "hoodies",
+    "description": "هودي دافئ بخامة قطنية فاخرة — مثالي للأجواء الباردة مع تصميم AH LB03.",
     "price": 35000,
     "image": "products/ah-lb03/04.webp",
     "images": [
@@ -50,11 +50,11 @@
   {
     "id": "ah-lb03-03",
     "slug": "ah-lb03-03",
-    "name": "شورت رياضي — AH LB03",
-    "type": "ملابس رياضية",
-    "categoryId": "tshirts",
-    "description": "شورت رياضي مريح من AH LB03 — مناسب للتمارين والجري.",
-    "price": 10000,
+    "name": "طقم AH LB03 ستريت",
+    "type": "طقم",
+    "categoryId": "sets",
+    "description": "طقم ستريت وير متكامل — تيشيرت وشورت بتصميم متناسق من AH LB03.",
+    "price": 25000,
     "image": "products/ah-lb03/07.webp",
     "images": [
       "products/ah-lb03/07.webp",
@@ -68,7 +68,7 @@
     "faqs": [],
     "isNew": true,
     "isFeatured": false,
-    "stockMeters": 75,
+    "stockMeters": 50,
     "createdAt": "2026-10-10T00:00:00.000Z",
     "sourceUrl": "https://www.instagram.com/ah_lb03/"
   }
