@@ -47,8 +47,8 @@ export interface SiteContent {
 
 export const defaultSiteContent: SiteContent = {
   shopName: 'AH LB03',
-  phone: '07727282001',
-  whatsapp: '9647727282001',
+  phone: '',
+  whatsapp: '',
   instagram: 'https://www.instagram.com/ah_lb03/',
   announcementRight: 'شحن إلى جميع محافظات العراق',
   announcementLeft: 'ستريت وير أصلي 100%',
