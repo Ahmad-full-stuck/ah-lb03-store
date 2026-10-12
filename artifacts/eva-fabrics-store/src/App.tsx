@@ -56,8 +56,8 @@ const shellStyles = `
 `
 
 const PAGE_SEO: Record<string, { title: string; desc: string }> = {
-  '/': { title: 'AH LB03 | Streetwear', desc: 'متجر AH LB03: تعرّف على المنتج والمرونة والشفافية واللون، اختر ما يناسب قطعك، واطلب بقطعة واحدة مع توصيل إلى جميع محافظات العراق.' },
-  '/catalog': { title: 'كل المنتجات | AH LB03', desc: 'تصفح منتجات AH LB03: قطن، كريب، ساتان وأكثر — مع المرونة واللون وسعر القطعة.' },
+  '/': { title: 'AH LB03 | Streetwear', desc: 'متجر AH LB03: تعرّف على المقاسات والخامة واللون، اختر ما يناسبك، واطلب بقطعة واحدة مع توصيل إلى جميع محافظات العراق.' },
+  '/catalog': { title: 'كل المنتجات | AH LB03', desc: 'تصفح منتجات AH LB03: تيشيرتات، هوديات وأطقم — مع مقاسات متنوعة وألوان وأسعار واضحة.' },
   '/cart': { title: 'سلة المشتريات | AH LB03', desc: 'راجع منتجك المختار والكمية قبل إتمام الطلب.' },
   '/checkout': { title: 'إتمام الطلب | AH LB03', desc: 'أدخل بياناتك والكمية لتأكيد طلب المنتجات مع التوصيل إلى جميع محافظات العراق.' },
   '/favorites': { title: 'المفضلة | AH LB03', desc: 'المنتجات التي حفظتها للرجوع إليها لاحقاً.' },
@@ -70,8 +70,8 @@ const PAGE_SEO: Record<string, { title: string; desc: string }> = {
 }
 
 const PAGE_SEO_EN: Record<string, { title: string; desc: string }> = {
-  '/': { title: 'AH LB03 | Streetwear & Sport', desc: 'AH LB03 products: learn about texture, stretch, opacity and color, choose what fits your piece, and order by the per piece with delivery across Iraq.' },
-  '/catalog': { title: 'All products | AH LB03', desc: 'Browse AH LB03 products: cotton, crepe, satin and more — with stretch, color and price per piece.' },
+  '/': { title: 'AH LB03 | Streetwear & Sport', desc: 'AH LB03 products: learn about sizes, materials and color, choose what fits you, and order easily with delivery across Iraq.' },
+  '/catalog': { title: 'All products | AH LB03', desc: 'Browse AH LB03 products: tees, hoodies and sets — with sizes, colors and clear prices.' },
   '/cart': { title: 'Shopping cart | AH LB03', desc: 'Review your chosen product and pieces before placing your order.' },
   '/checkout': { title: 'Checkout | AH LB03', desc: 'Enter your details and pieces to confirm your product order with delivery across Iraq.' },
   '/favorites': { title: 'Favorites | AH LB03', desc: 'The products you saved to come back to later.' },
